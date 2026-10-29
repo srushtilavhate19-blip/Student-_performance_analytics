@@ -1,0 +1,64 @@
+\n====================================================================
+             STUDENT PERFORMANCE ANALYTICS SYSTEM
+====================================================================
+\nSTUDENT MARKS SUMMARY
+Student_ID   Name  Total  Average Grade Result
+      S001  Aarav    256     51.2     D   Pass
+      S002  Aditi    298     59.6     D   Pass
+      S003  Akash    276     55.2     D   Pass
+      S004 Ananya    368     73.6     B   Pass
+      S005  Arjun    297     59.4     D   Pass
+      S006 Bhavya    255     51.0     D   Pass
+      S007    Dev    286     57.2     D   Pass
+      S008   Diya    348     69.6     C   Pass
+      S009  Harsh    258     51.6     D   Pass
+      S010   Isha    275     55.0     D   Pass
+      S011  Kabir    402     80.4     A   Pass
+      S012  Kavya    377     75.4     B   Pass
+      S013  Manav    329     65.8     C   Pass
+      S014  Meera    432     86.4     A   Pass
+      S015   Neha    377     75.4     B   Pass
+      S016     Om    235     47.0     E   Pass
+      S017 Pranav    349     69.8     C   Pass
+      S018  Priya    353     70.6     B   Pass
+      S019   Riya    357     71.4     B   Pass
+      S020  Rohan    225     45.0     E   Pass
+      S021  Sahil    413     82.6     A   Pass
+      S022   Sana    380     76.0     B   Pass
+      S023 Shreya    451     90.2    A+   Pass
+      S024   Sana    378     75.6     B   Pass
+      S025  Tanvi    295     59.0     D   Pass
+      S026    Ved    418     83.6     A   Pass
+      S027   Yash    381     76.2     B   Pass
+      S028   Zoya    341     68.2     C   Pass
+      S029   Yash    382     76.4     B   Pass
+      S030  Aarya    363     72.6     B   Pass
+\nOVERALL STATISTICS
+Students: 30
+Passed: 30
+Failed: 0
+Pass percentage: 100.00%
+Highest average: 90.20
+Lowest average: 45.00
+Class average: 67.70
+\nSUBJECT-WISE ANALYSIS
+Python: average=67.10, highest=91, lowest=41, passed=30
+Mathematics: average=67.07, highest=88, lowest=44, passed=30
+DBMS: average=67.33, highest=92, lowest=45, passed=30
+Computer_Networks: average=68.50, highest=90, lowest=46, passed=30
+English: average=68.50, highest=90, lowest=46, passed=30
+\nTOP FIVE STUDENTS BY AVERAGE
+Student_ID   Name Department  Average Grade Result
+      S023 Shreya   Computer     90.2    A+   Pass
+      S014  Meera Automation     86.4     A   Pass
+      S026    Ved   Computer     83.6     A   Pass
+      S021  Sahil   Computer     82.6     A   Pass
+      S011  Kabir   Computer     80.4     A   Pass
+\nDEPARTMENT-WISE AVERAGES
+Department
+Automation    63.97
+Computer      70.55
+\nATTENDANCE
+Average attendance: 80.23%
+Students below 75% attendance: 9
+\nDetailed results saved to: student_results.csv
